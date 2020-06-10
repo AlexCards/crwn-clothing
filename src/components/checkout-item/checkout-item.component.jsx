@@ -1,6 +1,6 @@
 import React from 'react';
 import { connect } from 'react-redux';
-import './checkout-item.styles.scss';
+import {} from './checkout-item.styles.jsx';
 
 import {
   clearItemFromCart,
